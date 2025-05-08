@@ -104,7 +104,15 @@ This project re-implements the pipeline using a subset of the **MegaDepth** data
 
 ---
 
+## 👥 Made By
+
+- **Nakshi Shah**
+- **Khushi Shah**
+- **Nischay Agrawal**
+- **Sahil Sadarangani**
+
+---
+
 ## 📚 References
 
 1. Zhang, Y., & Zhao, X. (2024). MESA: Matching Everything by Segmenting Anything. *CVPR 2024*.
-
