@@ -76,12 +76,6 @@ This project re-implements the pipeline using a subset of the **MegaDepth** data
 - **AreaNum**: Average number of segmented regions  
 - **ROC-AUC**: Siamese verification performance
 
-| Metric   | Value   |
-|----------|---------|
-| AMP@0.6  | 0.0236  |
-| AUC      | 0.53    |
-| AreaNum  | 144.0   |
-
 ---
 
 ## 🖥️ Environment
